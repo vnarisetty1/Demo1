@@ -1,1 +1,3 @@
 Welcome to new session
+
+Test stash in git
